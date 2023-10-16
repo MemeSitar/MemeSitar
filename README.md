@@ -1,6 +1,6 @@
 ### Playing around in *Cyberspace~~*
 ---
-Drinking coffee learning java.
+Drinking coffee learning C++ 😭.
 
 <!--
 Hiding this in a comment! 😈
